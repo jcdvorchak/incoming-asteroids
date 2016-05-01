@@ -10,8 +10,8 @@ $ python -m SimpleHTTPServer
 http://127.0.0.1:8000/
 
 ## TODO
-- get asteroids from date to date using https://api.nasa.gov/api.html#NeoWS
 
+### Code
 - how close they are
 	- relative to something
 - when they are coming
@@ -20,6 +20,12 @@ http://127.0.0.1:8000/
 - speed
 	- relative to something
 
-- simulate the distance and speed and size?
+### UI Interaction
+- get asteroids from date to date using https://api.nasa.gov/api.html#NeoWS
 
+### Visualization
+- visualize with d3
+	- can show relative distance and sizes
+	- how to show speed?
+- use some space sim to show everthing
 
